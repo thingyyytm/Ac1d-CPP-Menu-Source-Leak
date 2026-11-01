@@ -1,0 +1,38 @@
+# Android / Gradle
+*.iml
+.gradle/
+local.properties
+.idea/
+.DS_Store
+build/
+captures/
+.externalNativeBuild/
+.cxx/
+*.apk
+*.aab
+*.ap_
+*.dex
+
+# Keystores
+*.jks
+*.keystore
+
+# Local tooling output
+/proj/
+/recon_out/
+/tools/ghidra_*/
+/tools/ghidra.log
+/tools/ghidra2.log
+
+# Keep reconstruction tooling itself
+!/tools/*.py
+!/tools/*.java
+
+# Decomp preservation copies
+app/src/main/cpp/Include/*.decomp
+app/src/main/cpp/extern/*.orig/
+
+# IDE/editor
+*.swp
+*.swo
+*~
