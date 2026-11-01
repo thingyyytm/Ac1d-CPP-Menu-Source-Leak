@@ -1,3 +1,5 @@
+<p align="center"><img src="assets/banner.png" alt="Ac1d" width="100%"></p>
+
 # Ac1d Source Leak
 
 ## This is .gg/ac1d menu's source code! Have fun, fuckers! You can access a prebuilt lib in Releases of this repo. Why'd i do this? Fully vibecoded! Yeah, i mean fully. If you want more leaks, go to discord.gg/vrmodding
